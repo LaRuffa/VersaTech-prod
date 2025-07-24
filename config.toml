@@ -1,4 +1,3 @@
 baseURL = "https://versatech-prod.pages.dev/"
 languageCode = "en-us"
 title = "VersaTech"
-theme = "."
